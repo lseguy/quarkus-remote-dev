@@ -1,0 +1,5 @@
+*
+!main-app/build/*-runner
+!main-app/build/*-runner.jar
+!main-app/build/lib/*
+!main-app/build/quarkus-app/*
